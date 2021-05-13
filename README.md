@@ -3,7 +3,7 @@ Banco de dados do grupo 12 equipe 3
 
 Integrantes  do grupo :
 
-Victor<br/>
+Victor [GitHub:](https://github.com/Victor-Manoel-Public)<br/>
 Adriana<br/>
 Marcos<br/>
 Ezequiel<br/>
