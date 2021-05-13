@@ -1,37 +1,8 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Ezequie1 
-Ezequie1
-/
-Demo_day
-1
-02
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Demo_day/tabela.sql
-@Ezequie1
-Ezequie1 Código do banco de dados do grupo 12 equipe 3
-Latest commit f19f4f2 9 minutes ago
- History
- 1 contributor
-207 lines (167 sloc)  24.1 KB
+/*
   
 # Demo_day
 Banco de dados  do demoday
-
+*/
 -- phpMyAdmin SQL Dump
 -- version 5.1.0
 -- https://www.phpmyadmin.net/
