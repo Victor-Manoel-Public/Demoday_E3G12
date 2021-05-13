@@ -3,7 +3,7 @@
 ### O que é?
 <p>Acreditamos que a política no Brasil por muito tempo foi considerada chata, complicada de entender e que muitos brasileiros não fazem ideia do que seus representantes fazem ou tem que fazer. Logo, culpam as pessoas erradas e não sabem a quem podem recorrer quando há um problema público. Sendo assim, criamos o Politizando. Nosso projeto é a base para iniciar a formação do cidadão brasileiro politizado. Aqui temos o conceito de política, quais as funções dos representantes em seus respectivos cargos políticos, seus direitos básicos, e algumas curiosidades que você talvez não saiba sobre este tema. Tudo isso de forma simples e no mesmo lugar!</p>
 
-Integrantes  do grupo :
+### Integrantes  do grupo :
 
 Adriana  _&nbsp;_  _&nbsp;_  -> [GitHub](https://github.com/AdrianaQMelo), [LinkedIn](https://www.linkedin.com/in/adrianaqmelo/)<br/>
 Ester  _&nbsp;_  _&nbsp;_   _&nbsp;_  _&nbsp;_     ->[GitHub](https://github.com/ester346), [LinkedIn](https://www.linkedin.com/in/estercsoliveira/)<br/>
